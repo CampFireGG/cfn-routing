@@ -24,7 +24,8 @@
   ],
   "DirectIp": [
     "geoip:private",
-    "geoip:direct"
+    "geoip:direct",
+    "geoip:ru"
   ],
   "ProxySites": [
     "geosite:google-play",
