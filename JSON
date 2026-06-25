@@ -20,6 +20,11 @@
     "geosite:category-ru",
     "geosite:whitelist",
     "geosite:apple",
+    "geosite:twitch",
+    "geosite:google-play",
+    "geosite:epicgames",
+    "geosite:riot",
+    "geosite:steam",
     "geosite:twitch"
   ],
   "DirectIp": [
@@ -28,7 +33,6 @@
     "geoip:ru"
   ],
   "ProxySites": [
-    "geosite:google-play",
     "geosite:github",
     "geosite:twitch-ads",
     "geosite:youtube",
