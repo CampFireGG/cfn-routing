@@ -30,6 +30,7 @@
     "geosite:twitch-ads",
     "geosite:youtube",
     "geosite:telegram",
+    "geosite:apple",
     "geosite:category-ban-ru",
     "geosite:epicgames",
     "geosite:riot",
