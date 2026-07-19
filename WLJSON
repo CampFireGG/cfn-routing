@@ -17,7 +17,6 @@
   },
   "DirectSites": [
     "geosite:private",
-    "geosite:category-ru",
     "geosite:whitelist"
   ],
   "DirectIp": [
@@ -26,16 +25,14 @@
     "geoip:ru"
   ],
   "ProxySites": [
+    "geosite:category-ban-ru",
+    "geosite:category-ru",
     "geosite:github",
     "geosite:twitch-ads",
     "geosite:youtube",
     "geosite:telegram",
     "geosite:apple",
     "geosite:google-play",
-    "geosite:category-ban-ru",
-    "geosite:epicgames",
-    "geosite:riot",
-    "geosite:steam",
     "geosite:twitch"
   ],
   "ProxyIp": [],
