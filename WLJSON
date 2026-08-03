@@ -21,20 +21,9 @@
   ],
   "DirectIp": [
     "geoip:private",
-    "geoip:direct",
-    "geoip:ru"
+    "geoip:whitelist"
   ],
-  "ProxySites": [
-    "geosite:category-ban-ru",
-    "geosite:category-ru",
-    "geosite:github",
-    "geosite:twitch-ads",
-    "geosite:youtube",
-    "geosite:telegram",
-    "geosite:apple",
-    "geosite:google-play",
-    "geosite:twitch"
-  ],
+  "ProxySites": [],
   "ProxyIp": [],
   "BlockSites": [
     "geosite:win-spy",
