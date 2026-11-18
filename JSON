@@ -19,25 +19,26 @@
     "geosite:private",
     "geosite:category-ru",
     "geosite:whitelist",
+    "geosite:microsoft",
     "geosite:apple",
-    "geosite:twitch",
-    "geosite:google-play",
     "geosite:epicgames",
     "geosite:riot",
+    "geosite:escapefromtarkov",
     "geosite:steam",
-    "geosite:twitch"
+    "geosite:twitch",
+    "geosite:pinterest",
+    "geosite:faceit"
   ],
   "DirectIp": [
     "geoip:private",
-    "geoip:direct",
-    "geoip:ru"
+    "geoip:direct"
   ],
   "ProxySites": [
+    "geosite:google-play",
     "geosite:github",
     "geosite:twitch-ads",
     "geosite:youtube",
-    "geosite:telegram",
-    "geosite:category-ban-ru"
+    "geosite:telegram"
   ],
   "ProxyIp": [],
   "BlockSites": [
