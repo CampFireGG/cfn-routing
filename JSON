@@ -27,7 +27,8 @@
     "geosite:steam",
     "geosite:twitch",
     "geosite:pinterest",
-    "geosite:faceit"
+    "geosite:faceit",
+    "t-bank-app.ru"
   ],
   "DirectIp": [
     "geoip:private",
